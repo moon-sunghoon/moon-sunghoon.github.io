@@ -7,9 +7,4 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-@font-face {
-    font-family: 'Comfortaa';
-    src: url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400&display=swap') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400&display=swap');
