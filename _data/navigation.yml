@@ -11,6 +11,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
+sidebar navigation (categories)
 categories:
   - title: "ASP.NET CORE"
     url: /categories/asp.net-core/
