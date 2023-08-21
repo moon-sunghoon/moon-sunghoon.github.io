@@ -12,5 +12,5 @@ main:
   #   url: /sitemap/
 
 categories:
-  - title: "ASP.NET CORE"
+  - title: "ASP.NET Core"
     url: /categories/aspnet-core/
