@@ -1,9 +1,9 @@
 ---
-title: "ASP.NET Core"
+title: "ASPNET Core"
 layout: category
-permalink: /categories/asp.net-core/
+permalink: /categories/aspnet-core/
 author_profile: true
-taxonomy: ASP.NET Core
+taxonomy: ASPNET Core
 sidebar:
   nav: "categories"
 ---
