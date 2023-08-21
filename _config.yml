@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Audio/Acoustics"
+title                    : "Audio dev in a nutshell"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Sunghoon"
+name                     : "Gukbapkorea"
 description              : "All about audio."
 url                      : "https://moon-sunghoon.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -103,8 +103,8 @@ analytics:
 # Site Author
 author:
   name             : "Sunghoon"
-  avatar           : "/images/lebedevgrid1.jpg"
-  bio              : "Acoustic Engineer"
+  avatar           : "/images/4K-Damage-Badge.jpg"
+  bio              : "audio signal processing / software"
   location         : "Netherlands"
   email            : moonsh3222@gmail.com
   links:
@@ -251,9 +251,7 @@ whitelist:
 category_archive:
   type: liquid
   path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
@@ -286,5 +284,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      # share: true
       related: true
+      sidebar:
+        nav: "categories"
