@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Audio dev in a nutshell"
+title                    : "audio dev in a nutshell"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Gukbapkorea"
-description              : "All about audio."
+# name                     : "Gukbapkorea"
+# description              : "All about audio."
 url                      : "https://moon-sunghoon.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -226,7 +226,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  #- jekyll-feed
   - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
@@ -234,7 +234,7 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  #- jekyll-feed
   - jekyll-include-cache
 
 

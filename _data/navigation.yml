@@ -1,9 +1,8 @@
 # main links
 main:
-  - title: "Category"
-    url: /categories/
-  - title: "Tag"
-    url: /tags/
+main:
+  - title: "Home"
+    url: https://moon-sunghoon.github.io/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -12,3 +11,7 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+categories:
+  - title: "ASP.NET CORE"
+    url: /categories/asp.net-core/
