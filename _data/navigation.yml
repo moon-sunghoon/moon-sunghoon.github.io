@@ -12,38 +12,40 @@ main:
   #   url: /sitemap/
 
 categories:
-    - title: "ASP.NET Core"
-      url: /categories/aspnet-core/
+  - title: Study
+    children:
+      - title: "ASP.NET Core"
+        url: /categories/aspnet-core/
 
-    - title: "Network Programming"
-      url: /categories/network/
+      - title: "Network Programming"
+        url: /categories/network/
 
-    - title: "Audio Signal Processing"
-      url: /categories/audio-signal-processing/
+      - title: "Audio Signal Processing"
+        url: /categories/audio-signal-processing/
 
-    - title: "C++"
-      url: /categories/c++/
+      - title: "C++"
+        url: /categories/c++/
 
-    - title: "Database"
-      url: /categories/database/
+      - title: "Database"
+        url: /categories/database/
 
-    - title: "Design Patterns"
-      url: /categories/design-patterns/
+      - title: "Design Patterns"
+        url: /categories/design-patterns/
 
-    - title: "Docker"
-      url: /categories/docker/
+      - title: "Docker"
+        url: /categories/docker/
 
-    - title: "Dotnet"
-      url: /categories/dotnet/
+      - title: "Dotnet"
+        url: /categories/dotnet/
 
-    - title: "FastAPI"
-      url: /categories/fastapi/
+      - title: "FastAPI"
+        url: /categories/fastapi/
 
-    - title: "Mulththreaded Programming"
-      url: /categories/multithreaded-programming/
+      - title: "Mulththreaded Programming"
+        url: /categories/multithreaded-programming/
 
-    - title: "Python"
-      url: /categories/python/
+      - title: "Python"
+        url: /categories/python/
 
-    - title: "Spatial Audio"
-      url: /categories/spatial-audio/
+      - title: "Spatial Audio"
+        url: /categories/spatial-audio/
