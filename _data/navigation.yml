@@ -17,3 +17,33 @@ categories:
 
     - title: "Network Programming"
       url: /categories/network/
+
+    - title: "Audio Signal Processing"
+      url: /categories/audio-signal-processing/
+
+    - title: "C++"
+      url: /categories/c++/
+
+    - title: "Database"
+      url: /categories/database/
+
+    - title: "Design Patterns"
+      url: /categories/design-patterns/
+
+    - title: "Docker"
+      url: /categories/docker/
+
+    - title: "Dotnet"
+      url: /categories/dotnet/
+
+    - title: "FastAPI"
+      url: /categories/fastapi/
+
+    - title: "Mulththreaded Programming"
+      url: /categories/multithreaded-programming/
+
+    - title: "Python"
+      url: /categories/python/
+
+    - title: "Spatial Audio"
+      url: /categories/spatial-audio/
