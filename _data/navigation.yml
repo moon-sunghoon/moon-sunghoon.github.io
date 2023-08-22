@@ -12,7 +12,7 @@ main:
   #   url: /sitemap/
 
 categories:
-  - title: Study
+  - title: Nutshell
     children:
       - title: "ASP.NET Core"
         url: /categories/aspnet-core/
