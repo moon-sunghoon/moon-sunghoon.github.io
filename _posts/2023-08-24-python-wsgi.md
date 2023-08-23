@@ -3,7 +3,7 @@ layout: post
 title: "What is WSGI"
 
 categories:
-    - Nutshell/Python
+    - Nutshell > Python
 
 permalink: /python/what-is-wsgi/
 
