@@ -14,10 +14,13 @@ main:
 categories:
   - title: Nutshell
     children:
+      - title: "AI"
+        url: /categories/AI/
+
       - title: "ASP.NET Core"
         url: /categories/aspnet-core/
 
-      - title: "Network Programming"
+      - title: "Network"
         url: /categories/network/
 
       - title: "Audio Signal Processing"
@@ -40,6 +43,9 @@ categories:
 
       - title: "FastAPI"
         url: /categories/fastapi/
+
+      - title: "Flask"
+        url: /categories/flask/
 
       - title: "Mulththreaded Programming"
         url: /categories/multithreaded-programming/

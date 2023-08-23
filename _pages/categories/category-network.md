@@ -1,5 +1,5 @@
 ---
-title: "Network Programming"
+title: "Network"
 layout: category
 permalink: /categories/network/
 author_profile: true
