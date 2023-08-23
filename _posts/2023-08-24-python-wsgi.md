@@ -5,11 +5,8 @@ title: "What is WSGI"
 categories:
     - Python
 
-
 permalink: /python/what-is-wsgi/
 
-toc: true
-toc_sticky: true
 
 date: 2023-08-24
 ---
