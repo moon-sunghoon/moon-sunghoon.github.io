@@ -5,9 +5,9 @@ categories:
     - Python
 
 tags:
-    - [Python, Flask, FastAPI]
+    - [Python]
 
-permalink: /Python/what-is-wsgi/
+permalink: /python/what-is-wsgi/
 
 toc: true
 toc_sticky: true
