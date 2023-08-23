@@ -5,8 +5,6 @@ title: "What is WSGI"
 categories:
     - Python
 
-tags:
-    - [Python]
 
 permalink: /python/what-is-wsgi/
 
