@@ -7,8 +7,6 @@ categories:
 
 permalink: /python/what-is-wsgi/
 
-
-date: 2023-08-24
 ---
 
 ## What is WSGI
