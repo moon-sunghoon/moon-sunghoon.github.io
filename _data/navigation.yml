@@ -20,6 +20,7 @@ categories:
 
       - title: "ASP.NET Core"
         url: aspnet-core/
+        category: aspnet-core
 
       - title: "Network"
         url: network/
@@ -31,7 +32,7 @@ categories:
 
       - title: "C++"
         url: c++/
-        category c++
+        category: c++
 
       - title: "Database"
         url: database/
@@ -51,7 +52,7 @@ categories:
 
       - title: "FastAPI"
         url: fastapi/
-        cateogry: fastapi
+        category: fastapi
 
       - title: "Flask"
         url: flask/
