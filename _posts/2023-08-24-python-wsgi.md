@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: single
 title: "What is WSGI"
 
 categories:
-    - Python
+    - python
 
 permalink: /python/what-is-wsgi/
 sidebar:

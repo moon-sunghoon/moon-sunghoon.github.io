@@ -63,8 +63,8 @@ categories:
         category: multithread
 
       - title: "Python"
-        url: python/
-        category: Python
+        url: /categories/python/
+        category: python
 
       - title: "Spatial Audio"
         url: spatial-audio/
