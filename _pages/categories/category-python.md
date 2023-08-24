@@ -3,7 +3,7 @@ title: "Python"
 layout: archive
 permalink: /categories/python/
 author_profile: true
-taxonomy: Python
+taxonomy: python
 sidebar:
   nav: "categories"
 ---
