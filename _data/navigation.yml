@@ -13,7 +13,7 @@ main:
 
 categories:
   - title: Nutshell
-    children:
+    sublinks:
       - title: "AI"
         url: /categories/AI/
 
