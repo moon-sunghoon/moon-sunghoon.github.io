@@ -6,6 +6,8 @@ categories:
     - Python
 
 permalink: /python/what-is-wsgi/
+sidebar:
+  nav: "categories"
 
 ---
 
