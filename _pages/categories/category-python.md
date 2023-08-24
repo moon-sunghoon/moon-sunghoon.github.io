@@ -1,6 +1,6 @@
 ---
 title: "Python"
-layout: category
+layout: archive
 permalink: /categories/python/
 author_profile: true
 taxonomy: Python

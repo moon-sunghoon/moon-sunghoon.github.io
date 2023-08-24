@@ -13,45 +13,58 @@ main:
 
 categories:
   - title: Nutshell
-    sublinks:
+    children:
       - title: "AI"
-        url: /categories/AI/
+        url: /AI/
+        category: ai
 
       - title: "ASP.NET Core"
-        url: /categories/aspnet-core/
+        url: /aspnet-core/
 
       - title: "Network"
-        url: /categories/network/
+        url: /network/
+        category: network
 
       - title: "Audio Signal Processing"
-        url: /categories/audio-signal-processing/
+        url: /audio-signal-processing/
+        category: audio-signal-processing
 
       - title: "C++"
-        url: /categories/c++/
+        url: /c++/
+        category c++
 
       - title: "Database"
-        url: /categories/database/
+        url: /database/
+        category: database
 
       - title: "Design Patterns"
-        url: /categories/design-patterns/
+        url: /design-patterns/
+        category: design-patterns
 
       - title: "Docker"
-        url: /categories/docker/
+        url: /docker/
+        category: docker
 
       - title: "Dotnet"
-        url: /categories/dotnet/
+        url: /dotnet/
+        category: dotnet
 
       - title: "FastAPI"
-        url: /categories/fastapi/
+        url: /fastapi/
+        cateogry: fastapi
 
       - title: "Flask"
-        url: /categories/flask/
+        url: /flask/
+        category: flask
 
       - title: "Mulththreaded Programming"
-        url: /categories/multithreaded-programming/
+        url: /multithreaded-programming/
+        category: multithread
 
       - title: "Python"
-        url: /categories/python/
+        url: /python/
+        category: Python
 
       - title: "Spatial Audio"
-        url: /categories/spatial-audio/
+        url: /spatial-audio/
+        category: spatial-audio
