@@ -15,56 +15,56 @@ categories:
   - title: Nutshell
     children:
       - title: "AI"
-        url: /AI/
+        url: AI/
         category: ai
 
       - title: "ASP.NET Core"
-        url: /aspnet-core/
+        url: aspnet-core/
 
       - title: "Network"
-        url: /network/
+        url: network/
         category: network
 
       - title: "Audio Signal Processing"
-        url: /audio-signal-processing/
+        url: audio-signal-processing/
         category: audio-signal-processing
 
       - title: "C++"
-        url: /c++/
+        url: c++/
         category c++
 
       - title: "Database"
-        url: /database/
+        url: database/
         category: database
 
       - title: "Design Patterns"
-        url: /design-patterns/
+        url: design-patterns/
         category: design-patterns
 
       - title: "Docker"
-        url: /docker/
+        url: docker/
         category: docker
 
       - title: "Dotnet"
-        url: /dotnet/
+        url: dotnet/
         category: dotnet
 
       - title: "FastAPI"
-        url: /fastapi/
+        url: fastapi/
         cateogry: fastapi
 
       - title: "Flask"
-        url: /flask/
+        url: flask/
         category: flask
 
       - title: "Mulththreaded Programming"
-        url: /multithreaded-programming/
+        url: multithreaded-programming/
         category: multithread
 
       - title: "Python"
-        url: /python/
+        url: python/
         category: Python
 
       - title: "Spatial Audio"
-        url: /spatial-audio/
+        url: spatial-audio/
         category: spatial-audio
