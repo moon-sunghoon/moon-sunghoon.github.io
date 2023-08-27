@@ -69,3 +69,7 @@ categories:
       - title: "Spatial Audio"
         url: /categories/spatial-audio/
         category: spatial-audio
+
+      - title: "Code Test"
+        url: /categories/code-test/
+        category: code-test
