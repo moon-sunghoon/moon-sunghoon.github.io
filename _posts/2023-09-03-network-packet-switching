@@ -1,0 +1,12 @@
+---
+layout: single
+title: "Packet Switching"
+
+categories:
+    - network
+
+permalink: /network/packet-switching/
+sidebar:
+  nav: "categories"
+
+---
