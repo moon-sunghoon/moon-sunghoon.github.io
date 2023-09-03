@@ -19,8 +19,8 @@ use pivot and partition to swap
 
 Swap Conditions
 
-    * Left pointer must be smaller than pivot
-    * Right pointer must be larger than pivot
+* Left pointer must be smaller than pivot
+* Right pointer must be larger than pivot
 
 4. continue step 3 until the pointers cross each other, and swtich the position of first index of right section and where pivot value is
 5. First partinioning finished, and continue the same steps for left list and right list that was separated by this pivot number
