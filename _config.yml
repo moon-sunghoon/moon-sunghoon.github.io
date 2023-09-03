@@ -286,6 +286,6 @@ defaults:
       show_date: true
       comments: # true
       share: #true
-      related: true
+      related: # true
       sidebar:
         nav: "categories"
