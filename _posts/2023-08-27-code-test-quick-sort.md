@@ -24,6 +24,6 @@ use pivot and partition to swap
 4. continue step 3 until the pointers cross each other, and swtich the position of first index of right section and where pivot value is
 5. First partinioning finished, and continue the same steps for left list and right list that was separated by this pivot number
 
-Best : O($nlogn)\
+Best : O($nlogn$)\
 Worst : O($n^2$)\
 Average : O($nlogn$)
